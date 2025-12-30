@@ -19,6 +19,13 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 ---
 
+### 📝 Publications
+- **Integrated Segmentation and Classification Framework for Neonatal HIE Using SegResNet and XGBoost**  
+  *IEEE INDICON 2025, IIIT Bangalore, Dec 18–20, 2025*  
+  Explores a combined deep learning and machine learning approach for early-stage detection of Neonatal Hypoxic–Ischemic Encephalopathy (HIE).
+
+---
+
 ### 🎯 Technical Expertise
 
 #### Programming & Tools
@@ -46,7 +53,7 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 #### Cross-Lingual Speaker Verification for Indic Languages
 - ECAPA-Conformer architecture with multi-head attention  
@@ -55,8 +62,8 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 #### Multilingual Hate Speech Detection Using ML & Transformers
 - Compared RF, XGBoost, CNN-BiLSTM, BERT, IndicBERT, MuRIL, mBERT  
-- Handled class imbalance and hyperparameter tuning  
-- Applied to English & Malayalam datasets
+- Applied to English & Malayalam datasets  
+- Addressed class imbalance and optimized hyperparameters
 
 #### Indian Food Detection & Nutrient Estimation using YOLOv5
 - Detected 30 Indian food classes  
@@ -76,7 +83,7 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 Analyzed production data to identify inefficiencies and improve operations.
 
 **Intern — Aavin, TCMPF Ltd., Chennai**  
-Assisted in interpreting quality control data to enhance product consistency.
+Interpreted quality control data to enhance product consistency.
 
 ---
 
