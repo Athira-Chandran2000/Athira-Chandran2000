@@ -23,6 +23,8 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 ---
 
+---
+
 ### 🎯 Technical Expertise
 
 <div align="center">
@@ -51,6 +53,11 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 #### Domains & Skills
 Machine Learning • Deep Learning • Natural Language Processing • Speech Processing • Computer Vision  
 Medical Image Analysis • Explainable AI • Data Visualization • Statistical Analysis • Pattern Recognition
+
+</div>
+
+---
+
 
 
 ---
