@@ -19,12 +19,7 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 ---
 
-### 📝 Publications
-- **Integrated Segmentation and Classification Framework for Neonatal HIE Using SegResNet and XGBoost**  
-  *IEEE INDICON 2025, IIIT Bangalore, Dec 18–20, 2025*  
-  Explores a combined deep learning and machine learning approach for early-stage detection of Neonatal Hypoxic–Ischemic Encephalopathy (HIE).
 
----
 
 ### 🎯 Technical Expertise
 
@@ -52,6 +47,21 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 - Pattern Recognition  
 
 ---
+### 🎓 Education
+- **MTech Data Science**, Amrita Vishwa Vidyapeetham, 2024 — CGPA 8.72  
+- **BTech Dairy Technology**, KVASU — OGPA 8.39
+
+---
+
+### 🏢 Experience
+**Intern — AMUL, GCMMF, Anand**  
+Analyzed production data to identify inefficiencies and improve operations.
+
+**Intern — Aavin, TCMPF Ltd., Chennai**  
+Interpreted quality control data to enhance product consistency.
+
+---
+
 
 ### 🚀 Projects
 
@@ -71,21 +81,13 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 - Compared Adam vs SGD performance strategies
 
 ---
-
-### 🎓 Education
-- **MTech Data Science**, Amrita Vishwa Vidyapeetham, 2024 — CGPA 8.72  
-- **BTech Dairy Technology**, KVASU — OGPA 8.39
-
----
-
-### 🏢 Experience
-**Intern — AMUL, GCMMF, Anand**  
-Analyzed production data to identify inefficiencies and improve operations.
-
-**Intern — Aavin, TCMPF Ltd., Chennai**  
-Interpreted quality control data to enhance product consistency.
+### 📝 Publications
+- **Integrated Segmentation and Classification Framework for Neonatal HIE Using SegResNet and XGBoost**  
+  *IEEE INDICON 2025, IIIT Bangalore, Dec 18–20, 2025*  
+  Explores a combined deep learning and machine learning approach for early-stage detection of Neonatal Hypoxic–Ischemic Encephalopathy (HIE).
 
 ---
+
 
 ### 🧠 Certificates
 - **GATE XL 2024** — Score: 604 | AIR: 588
@@ -100,12 +102,6 @@ Interpreted quality control data to enhance product consistency.
 
 ---
 
-### 🗣️ Languages
-English • Hindi • Malayalam • Tamil
 
----
-
-### 🎧 Interests
-Listening to music • Solving puzzles
 
 ---
