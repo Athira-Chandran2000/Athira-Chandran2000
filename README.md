@@ -1,27 +1,52 @@
-<!-- Banner (optional) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1000x220.png?text=Athira+Chandran+-+Data+Science" alt="banner">
-</p>
-
-<h1 align="center">Hi, I'm Athira Chandran</h1>
-<p align="center">MTech Data Science | Machine Learning | Deep Learning | NLP | Computer Vision</p>
+<table>
+<tr>
+<!-- ================= LEFT PANEL ================= -->
+<td width="33%" valign="top">
 
 <p align="center">
-  <a href="mailto:athirachandran4224@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/iamathirachandran">LinkedIn</a> •
-  <a href="https://github.com/Athira-Chandran2000">GitHub</a>
+  <img src="profile.jpg" width="140" style="border-radius:50%; border:2px solid #ddd">
+</p>
+
+<h2 align="center">Athira Chandran</h2>
+
+<p align="center">
+<b>MTech Data Science</b><br>
+Kannur, Kerala, India<br>
+19 July 2000
 </p>
 
 ---
 
-### 👩🏻‍💻 About Me
-Passionate and goal-oriented MTech Data Science student with hands-on experience in machine learning and deep learning academic projects. Skilled in Python, Java, SQL, and data science libraries like Pandas, NumPy, Scikit-learn, TensorFlow, and Keras. Interested in speech processing, NLP, and computer vision.
+### 📬 Contact
+• <a href="mailto:athirachandran4224@gmail.com">Email</a>  
+• <a href="https://linkedin.com/in/iamathirachandran">LinkedIn</a>  
+• <a href="https://github.com/Athira-Chandran2000">GitHub</a>  
 
 ---
 
-
+### 🌐 Languages
+English • Hindi • Malayalam • Tamil
 
 ---
+
+### 🎧 Interests
+Listening to music  
+Solving puzzles
+
+</td>
+
+<!-- ================= RIGHT PANEL ================= -->
+<td width="67%" valign="top">
+
+### 📌 About Me
+Passionate MTech Data Science student with hands-on experience in machine learning and deep learning projects.  
+Focused on speech processing, medical image analysis, and explainable AI.
+
+---
+
+### 📝 Publication
+**Integrated Segmentation and Classification Framework for Neonatal HIE Using SegResNet and XGBoost**  
+IEEE INDICON 2025, IIIT Bangalore, Dec 18–20
 
 ---
 
@@ -52,70 +77,50 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 #### Domains & Skills
 Machine Learning • Deep Learning • Natural Language Processing • Speech Processing • Computer Vision  
-Medical Image Analysis • Explainable AI • Data Visualization • Statistical Analysis • Pattern Recognition
+Medical Image Analysis • Explainable AI • Statistical Analysis • Pattern Recognition • Data Visualization
 
 </div>
 
 ---
 
+### 🚀 Projects
 
+**Cross-Lingual Speaker Verification for Indic Languages**  
+ECAPA-Conformer, AAM-Softmax + Triplet loss, multilingual fine-tuning.
+
+**Multilingual Hate Speech Detection using ML & Transformers**  
+Compared RF, XGBoost, CNN-BiLSTM, BERT, IndicBERT, MuRIL.
+
+**Indian Food Detection & Nutrient Estimation using YOLOv5**  
+Detected 30 food classes; nutritional metadata mapping.
 
 ---
-### 🎓 Education
-- **MTech Data Science**, Amrita Vishwa Vidyapeetham, 2024 — 2026
 
+### 🎓 Education
+**MTech Data Science**, Amrita Vishwa Vidyapeetham
 
 ---
 
 ### 🏢 Experience
-**Intern — AMUL, GCMMF, Anand**  
-Analyzed production data to identify inefficiencies and improve operations.
+**Intern — AMUL, GCMMF**  
+Analyzed production data to support process improvements.
 
-**Intern — Aavin, TCMPF Ltd., Chennai**  
-Interpreted quality control data to enhance product consistency.
-
----
-
-
-### 🚀 Projects
-
-#### Cross-Lingual Speaker Verification for Indic Languages
-- ECAPA-Conformer architecture with multi-head attention  
-- Pre-trained on English (LibriSpeech), fine-tuned on Tamil & Malayalam  
-- Hybrid AAM-Softmax + Triplet loss; SpecAugment & noise-based augmentation  
-
-#### Multilingual Hate Speech Detection Using ML & Transformers
-- Compared RF, XGBoost, CNN-BiLSTM, BERT, IndicBERT, MuRIL, mBERT  
-- Applied to English & Malayalam datasets  
-- Addressed class imbalance and optimized hyperparameters
-
-#### Indian Food Detection & Nutrient Estimation using YOLOv5
-- Detected 30 Indian food classes  
-- Integrated nutritional metadata  
-- Compared Adam vs SGD performance strategies
-
----
-### 📝 Publications
-- **Integrated Segmentation and Classification Framework for Neonatal HIE Using SegResNet and XGBoost**  
-  *IEEE INDICON 2025, IIIT Bangalore, Dec 18–20, 2025*  
-  Explores a combined deep learning and machine learning approach for early-stage detection of Neonatal Hypoxic–Ischemic Encephalopathy (HIE).
+**Intern — Aavin (TCMPF Ltd.)**  
+Interpreted quality control data to improve product consistency.
 
 ---
 
-
-### 🧠 Certificates
-- **GATE XL 2024** — Score: 604 | AIR: 588
+### 📜 Certificates
+**GATE XL 2024** — Score: 604 | AIR: 588
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Athira-Chandran2000&show_icons=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Athira-Chandran2000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Athira-Chandran2000&show_icons=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Athira-Chandran2000" width="49%">
 </div>
 
----
-
-
-
----
+</td>
+</tr>
+</table>
