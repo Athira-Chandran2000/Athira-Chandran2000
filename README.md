@@ -21,7 +21,11 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
 
 
 
+---
+
 ### 🎯 Technical Expertise
+
+<div align="center">
 
 #### Programming & Tools
 <div>
@@ -30,6 +34,8 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </div>
+
+<br/>
 
 #### Libraries & Frameworks
 <div>
@@ -40,16 +46,17 @@ Passionate and goal-oriented MTech Data Science student with hands-on experience
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
 </div>
 
+<br/>
+
 #### Domains & Skills
-- Machine Learning, Deep Learning  
-- Natural Language Processing, Computer Vision  
-- Data Visualization, Statistical Analysis  
-- Pattern Recognition  
+Machine Learning • Deep Learning • Natural Language Processing • Speech Processing • Computer Vision  
+Medical Image Analysis • Explainable AI • Data Visualization • Statistical Analysis • Pattern Recognition
+
 
 ---
 ### 🎓 Education
-- **MTech Data Science**, Amrita Vishwa Vidyapeetham, 2024 — CGPA 8.72  
-- **BTech Dairy Technology**, KVASU — OGPA 8.39
+- **MTech Data Science**, Amrita Vishwa Vidyapeetham, 2024 — 2026
+
 
 ---
 
